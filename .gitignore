@@ -1,0 +1,8 @@
+*.o
+*.a
+.vs
+Debug/*
+Release/*
+libreverse/Debug/*
+libreverse/Release/*
+a.out
